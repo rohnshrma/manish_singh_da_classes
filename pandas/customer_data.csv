@@ -1,0 +1,11 @@
+id,name,age,income,email,signup_date,phone,gender
+1,John Doe,25,50000,john.doe@email.com,2023-01-15,123-456-7890,Male
+2,Jane Smith,,60000,jane.smith@email.com,2023-02-10,9876543210,Female
+3,John Doe,25,50000,john.doe@email.com,2023-01-15,123-456-7890,Male
+4,Bob Johnson,30,-1000,bob.j@email.com,2023-03-20,555-123-4567,male
+5,Alice Brown,28,75000,alice.brown@company.org,2023-04-01,4567891234,F
+6,Charlie Davis,150,45000,invalid_email,2023-05-12,1234567890,M
+7,,35,80000,mary.wilson@email.com,2023-06-25,111-222-3333,Female
+8,David Lee,27,0,david.lee@email.com,2023-07-10,999-888-7777,Male
+9,Emma Wilson,29,65000,emma.w@email.com,invalid_date,6667778888,F
+10,Sarah Connor,32,120000,sarah.connor@email.com,2023-08-15,123-456-7890,Female
