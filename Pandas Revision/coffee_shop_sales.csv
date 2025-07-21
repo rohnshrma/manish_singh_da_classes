@@ -1,0 +1,121 @@
+Transaction ID,Transaction Month,Store Location,Total Sales,Items Sold,Customer Satisfaction,Online Orders,Product Category
+1,jan,Mumbai,250000,500,4.2,100,Coffee
+2,JAN,Delhi,280000,550,4.5,120,Masala Chai
+3,Jan ,Bengaluru,220000,480,3.8,90,Snacks
+4,jan,Chennai,260000,510,,110,Coffee
+5,Jan,Kolkata,230000,490,4.0,,Sandwiches
+6,feb,Mumbai,230000,490,4.0,110,Coffee
+7,FEB,Delhi,270000,520,4.3,130,Masala Chai
+8,Feb ,Bengaluru,200000,460,3.5,80,Snacks
+9,feb,Chennai,240000,500,4.1,105,Coffee
+10,Feb,Kolkata,0,0,3.9,90,Masala Chai
+11,march ,Mumbai,260000,510,4.6,115,Coffee
+12,MAR,Delhi,290000,560,4.8,125,Coffee
+13,Mar,Bengaluru,210000,470,,95,Masala Chai
+14,march,Chennai,270000,530,4.4,120,Snacks
+15,Mar,Kolkata,240000,500,4.2,100,Sandwiches
+16,apr,Mumbai,240000,500,4.1,105,Coffee
+17,APR,Delhi,300000,570,4.7,135,Coffee
+18,Apr ,Bengaluru,230000,490,4.2,,Masala Chai
+19,apr,Chennai,250000,510,4.3,110,Snacks
+20,Apr,Kolkata,220000,480,3.8,90,Sandwiches
+21,may,Mumbai,270000,530,4.4,110,Coffee
+22,MAY,Delhi,310000,580,4.9,140,Coffee
+23,May,Bengaluru,240000,500,,90,Snacks
+24,may,Chennai,260000,520,4.5,115,Masala Chai
+25,May,Kolkata,230000,490,4.1,100,Coffee
+26,jun,Mumbai,200000,450,3.7,85,Masala Chai
+27,JUN,Delhi,320000,590,4.6,145,Coffee
+28,Jun ,Bengaluru,250000,510,4.3,100,Snacks
+29,jun,Chennai,240000,500,4.0,105,Sandwiches
+30,Jun,Kolkata,270000,530,4.4,,Coffee
+31,jul,Mumbai,280000,540,4.5,115,Coffee
+32,JUL,Delhi,300000,570,4.8,130,Masala Chai
+33,Jul ,Bengaluru,260000,520,4.2,100,Snacks
+34,jul,Chennai,250000,510,4.3,110,Coffee
+35,Jul,Kolkata,-1000,-10,4.0,95,Sandwiches
+36,aug,Mumbai,290000,550,4.6,120,Coffee
+37,AUG,Delhi,270000,530,4.4,115,Masala Chai
+38,Aug ,Bengaluru,230000,490,3.9,90,Snacks
+39,aug,Chennai,280000,540,4.5,125,Coffee
+40,Aug,Kolkata,260000,520,4.2,100,Masala Chai
+41,sep,Mumbai,270000,530,4.3,110,Coffee
+42,SEP,Delhi,310000,580,4.7,140,Coffee
+43,Sep,Bengaluru,240000,500,4.0,95,Snacks
+44,sep,Chennai,260000,510,,115,Masala Chai
+45,Sep,Kolkata,250000,510,4.1,100,Sandwiches
+46,oct,Mumbai,280000,540,4.5,120,Coffee
+47,OCT,Delhi,290000,560,4.6,130,Coffee
+48,Oct ,Bengaluru,250000,510,4.2,100,Masala Chai
+49,oct,Chennai,270000,530,4.3,110,Snacks
+50,Oct,Kolkata,240000,500,4.0,95,Sandwiches
+51,nov,Mumbai,300000,570,4.7,135,Coffee
+52,NOV,Delhi,280000,550,4.5,125,Masala Chai
+53,Nov ,Bengaluru,260000,520,4.3,100,Snacks
+54,nov,Chennai,290000,560,4.6,130,Coffee
+55,Nov,Kolkata,270000,530,4.4,115,Sandwiches
+56,dec,Mumbai,310000,580,4.8,140,Coffee
+57,DEC,Delhi,300000,570,4.7,135,Masala Chai
+58,Dec ,Bengaluru,280000,550,4.5,120,Snacks
+59,dec,Chennai,320000,590,4.9,145,Coffee
+60,Dec,Kolkata,290000,560,4.6,130,Sandwiches
+61,Jan,Mumbai,255000,505,4.3,105,Coffee
+62,jan,Delhi,285000,555,4.6,125,Masala Chai
+63,JAN,Bengaluru,225000,485,,95,Snacks
+64,Jan ,Chennai,265000,515,4.4,115,Coffee
+65,jan,Kolkata,235000,495,4.1,100,Sandwiches
+66,Feb,Mumbai,235000,495,4.1,115,Coffee
+67,feb,Delhi,275000,525,4.4,135,Masala Chai
+68,FEB,Bengaluru,205000,465,3.6,85,Snacks
+69,Feb ,Chennai,245000,505,4.2,110,Coffee
+70,feb,Kolkata,215000,475,4.0,,Masala Chai
+71,Mar,Mumbai,265000,515,4.7,120,Coffee
+72,march,Delhi,295000,565,4.9,130,Coffee
+73,MAR,Bengaluru,215000,475,4.0,100,Masala Chai
+74,Mar ,Chennai,275000,535,4.5,125,Snacks
+75,mar,Kolkata,245000,505,4.3,105,Sandwiches
+76,Apr,Mumbai,245000,505,4.2,110,Coffee
+77,apr,Delhi,305000,575,4.8,140,Coffee
+78,APR,Bengaluru,235000,495,4.3,105,Masala Chai
+79,Apr ,Chennai,255000,515,4.4,115,Snacks
+80,apr,Kolkata,225000,485,3.9,95,Sandwiches
+81,May,Mumbai,275000,535,4.5,115,Coffee
+82,may,Delhi,315000,585,5.0,145,Coffee
+83,MAY,Bengaluru,245000,505,4.1,95,Snacks
+84,May ,Chennai,265000,525,4.6,120,Masala Chai
+85,may,Kolkata,235000,495,4.2,105,Coffee
+86,Jun,Mumbai,205000,455,3.8,90,Masala Chai
+87,jun,Delhi,325000,595,4.7,150,Coffee
+88,JUN,Bengaluru,255000,515,4.4,105,Snacks
+89,Jun ,Chennai,245000,505,4.1,110,Sandwiches
+90,jun,Kolkata,275000,535,4.5,115,Coffee
+91,Jul,Mumbai,285000,545,4.6,120,Coffee
+92,jul,Delhi,305000,575,4.9,135,Masala Chai
+93,JUL,Bengaluru,265000,525,4.3,105,Snacks
+94,Jul ,Chennai,255000,515,4.4,115,Coffee
+95,jul,Kolkata,245000,505,4.1,100,Sandwiches
+96,Aug,Mumbai,295000,555,4.7,125,Coffee
+97,aug,Delhi,275000,535,4.5,120,Masala Chai
+98,AUG,Bengaluru,235000,495,4.0,95,Snacks
+99,Aug ,Chennai,285000,545,4.6,130,Coffee
+100,aug,Kolkata,265000,525,4.3,105,Masala Chai
+101,Sep,Mumbai,275000,535,4.4,115,Coffee
+102,sep,Delhi,315000,585,4.8,145,Coffee
+103,SEP,Bengaluru,245000,505,4.1,100,Snacks
+104,Sep ,Chennai,265000,515,4.5,120,Masala Chai
+105,sep,Kolkata,255000,515,4.2,105,Sandwiches
+106,Oct,Mumbai,285000,545,4.6,125,Coffee
+107,oct,Delhi,295000,565,4.7,135,Coffee
+108,OCT,Bengaluru,255000,515,4.3,105,Masala Chai
+109,Oct ,Chennai,275000,535,4.4,115,Snacks
+110,oct,Kolkata,245000,505,4.1,100,Sandwiches
+111,Nov,Mumbai,305000,575,4.8,140,Coffee
+112,nov,Delhi,285000,555,4.6,130,Masala Chai
+113,NOV,Bengaluru,265000,525,4.4,105,Snacks
+114,Nov ,Chennai,295000,565,4.7,135,Coffee
+115,nov,Kolkata,275000,535,4.5,120,Sandwiches
+116,Dec,Mumbai,315000,585,4.9,145,Coffee
+117,dec,Delhi,305000,575,4.8,140,Masala Chai
+118,DEC,Bengaluru,285000,555,4.6,125,Snacks
+119,Dec ,Chennai,325000,595,5.0,150,Coffee
+120,dec,Kolkata,295000,565,4.7,135,Sandwiches
