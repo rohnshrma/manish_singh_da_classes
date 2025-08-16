@@ -1,0 +1,21 @@
+Transaction ID,Transaction Month,Store Location,Total Sales,Items Sold,Customer Satisfaction,Online Orders,Product Category
+1,jan,Mumbai,250000,500,4.2,100.0,Coffee
+2,JAN,Delhi,280000,550,4.5,120.0,Masala Chai
+3,Jan,Bengaluru,220000,480,3.8,90.0,Snacks
+4,jan,Chennai,260000,510,,110.0,Coffee
+5,Jan,Kolkata,230000,490,4.0,,Sandwiches
+6,feb,Mumbai,230000,490,4.0,110.0,Coffee
+7,FEB,Delhi,270000,520,4.3,130.0,Masala Chai
+8,Feb,Bengaluru,200000,460,3.5,80.0,Snacks
+9,feb,Chennai,240000,500,4.1,105.0,Coffee
+10,Feb,Kolkata,0,0,3.9,90.0,Masala Chai
+11,march,Mumbai,260000,510,4.6,115.0,Coffee
+12,MAR,Delhi,290000,560,4.8,125.0,Coffee
+13,Mar,Bengaluru,210000,470,,95.0,Masala Chai
+14,march,Chennai,270000,530,4.4,120.0,Snacks
+15,Mar,Kolkata,240000,500,4.2,100.0,Sandwiches
+16,apr,Mumbai,240000,500,4.1,105.0,Coffee
+17,APR,Delhi,300000,570,4.7,135.0,Coffee
+18,Apr,Bengaluru,230000,490,4.2,,Masala Chai
+19,apr,Chennai,250000,510,4.3,110.0,Snacks
+20,Apr,Kolkata,220000,480,3.8,90.0,Sandwiches
